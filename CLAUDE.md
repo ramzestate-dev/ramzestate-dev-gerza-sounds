@@ -42,7 +42,8 @@ Categories: `impacts` (hits, booms), `whooshes` (swooshes, transitions), `risers
 
 It downloads with `gh release download v1 -R ramzestate-dev/ramzestate-dev-gerza-sounds -p <zip>`,
 or with curl from `https://github.com/ramzestate-dev/ramzestate-dev-gerza-sounds/releases/download/v1/<zip>`
-when `gh` is unavailable. Zips are cached in `.cache/gerza-sounds/`.
+when `gh` is unavailable. In a Claude cloud session, where `gh` may be limited to search, run it
+as `GERZA_USE_GH=0 ./get-sound.sh …` to use curl only. Zips are cached in `.cache/gerza-sounds/`.
 
 ## Rules
 

@@ -15,7 +15,7 @@
 #   --commercial skip sounds marked NON-COMMERCIAL
 #
 # Archives come from the release (default v1) through `gh release download`, or plain curl when gh
-# is missing (set GITHUB_TOKEN for a private repository). Downloaded zips are cached in
+# is missing or GERZA_USE_GH=0 (set GITHUB_TOKEN for a private repository). Downloaded zips are cached in
 # .cache/gerza-sounds/ so a second search in the same archive downloads nothing.
 set -euo pipefail
 
@@ -126,7 +126,7 @@ fetch() { # zip name -> path in cache
   mkdir -p "$CACHE"
   if [ -s "$dest" ]; then echo "$dest"; return; fi
   echo "downloading $zip from $REPO release $TAG ..." >&2
-  if command -v gh >/dev/null && gh release download "$TAG" -R "$REPO" -p "$zip" -D "$CACHE" --clobber >&2 2>/dev/null; then
+  if [ "${GERZA_USE_GH:-1}" != 0 ] && command -v gh >/dev/null && gh release download "$TAG" -R "$REPO" -p "$zip" -D "$CACHE" --clobber >&2 2>/dev/null; then
     echo "$dest"; return
   fi
   local auth=()
