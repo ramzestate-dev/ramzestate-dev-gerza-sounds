@@ -61,6 +61,7 @@ jobs:
       - name: Publish release
         env:
           GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}  # gh runs outside the checkout here
         run: |
           cd "$RUNNER_TEMP/build/dist"
           ls -la
