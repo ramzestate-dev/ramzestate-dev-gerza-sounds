@@ -411,7 +411,7 @@ animals/8-bit-sound-effect-pack/whistle_wolf.mp3,animals,1.14,wolf;волк,http
 animals/80-cc0-creature-sfx/barking_01.mp3,animals,0.40,bark;лай,https://opengameart.org/content/80-cc0-creature-sfx,CC0-1.0,animals.zip
 animals/80-cc0-creature-sfx/barking_02.mp3,animals,0.46,bark;лай,https://opengameart.org/content/80-cc0-creature-sfx,CC0-1.0,animals.zip
 animals/80-cc0-creature-sfx/howl.mp3,animals,0.72,howl;вой,https://opengameart.org/content/80-cc0-creature-sfx,CC0-1.0,animals.zip
-animals/95-sfx-pack-beats-warrior-nian/snd_bat-2.mp3,animals,1.07,bat;летучая мышь,https://opengameart.org/content/95-sfx-pack-beats-warrior-nian,CC0-1.0,animals.zip
+animals/95-sfx-pack-beats-warrior-nian/snd_bat.mp3,animals,1.07,bat;летучая мышь,https://opengameart.org/content/95-sfx-pack-beats-warrior-nian,CC0-1.0,animals.zip
 animals/95-sfx-pack-beats-warrior-nian/snd_bat.mp3,animals,1.07,bat;летучая мышь,https://opengameart.org/content/95-sfx-pack-beats-warrior-nian,CC0-1.0,animals.zip
 animals/95-sfx-pack-beats-warrior-nian/snd_home_bird_wing-2.mp3,animals,0.26,bird;птица,https://opengameart.org/content/95-sfx-pack-beats-warrior-nian,CC0-1.0,animals.zip
 animals/95-sfx-pack-beats-warrior-nian/snd_home_bird_wing.mp3,animals,0.26,bird;птица,https://opengameart.org/content/95-sfx-pack-beats-warrior-nian,CC0-1.0,animals.zip
@@ -455,7 +455,7 @@ animals/bear-growls/ogg_bear_02.mp3,animals,1.19,bear;медведь,https://ope
 animals/birbotronicdoogdoog-misc-sound-effects/bird-scream.mp3,animals,0.34,bird;птица;scream;крик,https://opengameart.org/content/birbotronicdoogdoog-misc-sound-effects,CC0-1.0,animals.zip
 animals/birbotronicdoogdoog-misc-sound-effects/dog-jump.mp3,animals,0.23,dog;собака;jump;прыжок,https://opengameart.org/content/birbotronicdoogdoog-misc-sound-effects,CC0-1.0,animals.zip
 animals/bird-chirping-sounds/birdchirping071414.mp3,animals,3.00,bird;птица;chirp;щебет,https://opengameart.org/content/bird-chirping-sounds,CC0-1.0,animals.zip
-animals/birdcricketfrog-and-mosquito-sounds/bird.mp3,animals,0.73,bird;птица,https://opengameart.org/content/birdcricketfrog-and-mosquito-sounds,CC0-1.0,animals.zip
+animals/birdcricketfrog-and-mosquito-sounds/bird-2.mp3,animals,0.73,bird;птица,https://opengameart.org/content/birdcricketfrog-and-mosquito-sounds,CC0-1.0,animals.zip
 animals/birdcricketfrog-and-mosquito-sounds/bird.mp3,animals,0.68,bird;птица,https://opengameart.org/content/birdcricketfrog-and-mosquito-sounds,CC0-1.0,animals.zip
 animals/birdcricketfrog-and-mosquito-sounds/bird2-2.mp3,animals,1.18,bird;птица,https://opengameart.org/content/birdcricketfrog-and-mosquito-sounds,CC0-1.0,animals.zip
 animals/birdcricketfrog-and-mosquito-sounds/bird2.mp3,animals,1.13,bird;птица,https://opengameart.org/content/birdcricketfrog-and-mosquito-sounds,CC0-1.0,animals.zip
@@ -535,10 +535,10 @@ animals/jay-the-doggo-sound-effects/sfx-frog.mp3,animals,0.68,frog;лягушк�
 animals/meow/Meow.mp3,animals,0.51,meow;мяу,https://opengameart.org/content/meow,CC0-1.0,animals.zip
 animals/meowing-cat-made-in-labchirp/meowing_cat.mp3,animals,1.08,cat;кошка;meow;мяу,https://opengameart.org/content/meowing-cat-made-in-labchirp,CC0-1.0,animals.zip
 animals/mouse-imitation/mouse-2.mp3,animals,0.93,animal;животное,https://opengameart.org/content/mouse-imitation,CC0-1.0,animals.zip
-animals/mutant-frog/mutant_frog-1-2.mp3,animals,0.79,frog;лягушка,https://opengameart.org/content/mutant-frog,CC0-1.0,animals.zip
 animals/mutant-frog/mutant_frog-1.mp3,animals,0.79,frog;лягушка,https://opengameart.org/content/mutant-frog,CC0-1.0,animals.zip
-animals/mutant-frog/mutant_frog-2-2.mp3,animals,0.76,frog;лягушка,https://opengameart.org/content/mutant-frog,CC0-1.0,animals.zip
-animals/mutant-frog/mutant_frog-2.mp3,animals,0.72,frog;лягушка,https://opengameart.org/content/mutant-frog,CC0-1.0,animals.zip
+animals/mutant-frog/mutant_frog-1.mp3,animals,0.79,frog;лягушка,https://opengameart.org/content/mutant-frog,CC0-1.0,animals.zip
+animals/mutant-frog/mutant_frog-2-2.mp3,animals,0.72,frog;лягушка,https://opengameart.org/content/mutant-frog,CC0-1.0,animals.zip
+animals/mutant-frog/mutant_frog-2.mp3,animals,0.76,frog;лягушка,https://opengameart.org/content/mutant-frog,CC0-1.0,animals.zip
 animals/nes-sounds/bird.mp3,animals,1.00,bird;птица,https://opengameart.org/content/nes-sounds,CC0-1.0,animals.zip
 animals/park-ambiences/park_ambience_birds.mp3,animals,120.00,bird;птица;ambience;атмосфера,https://opengameart.org/content/park-ambiences,CC0-1.0,animals.zip
 animals/ribbit-frog-sounds/ribbit_01.mp3,animals,1.21,frog;лягушка,https://opengameart.org/content/ribbit-frog-sounds,CC0-1.0,animals.zip
@@ -1155,8 +1155,8 @@ impacts/birbotronicdoogdoog-misc-sound-effects/noise-crash.mp3,impacts,0.45,cras
 impacts/bombexplosion8bit/8bit_bomb_explosion.mp3,impacts,0.58,explosion;взрыв;8-bit;8-бит,https://opengameart.org/content/bombexplosion8bit,CC0-1.0,impacts.zip
 impacts/break-pumpkin/pumpkin_break_01.mp3,impacts,0.38,break;ломание,https://opengameart.org/content/break-pumpkin,CC0-1.0,impacts.zip
 impacts/breaking-rock/rock_break.mp3,impacts,0.44,break;ломание;rock;камень,https://opengameart.org/content/breaking-rock,CC0-1.0,impacts.zip
-impacts/bub-block-sound-effects/break1-2.mp3,impacts,0.56,break;ломание,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,impacts.zip
-impacts/bub-block-sound-effects/break1.mp3,impacts,0.55,break;ломание,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,impacts.zip
+impacts/bub-block-sound-effects/break1.mp3,impacts,0.56,break;ломание,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,impacts.zip
+impacts/bub-block-sound-effects/break1.mp3,impacts,0.56,break;ломание,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,impacts.zip
 impacts/bub-block-sound-effects/break2.mp3,impacts,0.49,break;ломание,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,impacts.zip
 impacts/bub-block-sound-effects/break3.mp3,impacts,0.40,break;ломание,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,impacts.zip
 impacts/bub-block-sound-effects/drop1-2.mp3,impacts,0.33,drop;падение,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,impacts.zip
@@ -1322,8 +1322,6 @@ impacts/horror-hit-soundpack-1/high_8.mp3,impacts,5.17,hit;удар,https://open
 impacts/horror-hit-soundpack-1/mid_5.mp3,impacts,4.94,hit;удар,https://opengameart.org/content/horror-hit-soundpack-1,CC0-1.0,impacts.zip
 impacts/horror-hit-soundpack-1/very_bassy_4.mp3,impacts,4.36,hit;удар,https://opengameart.org/content/horror-hit-soundpack-1,CC0-1.0,impacts.zip
 impacts/hurt-death-sound-effect-for-character/1.mp3,impacts,3.08,hurt;ранение,https://opengameart.org/content/hurt-death-sound-effect-for-character,CC0-1.0,impacts.zip
-impacts/hurt-death-sound-effect-for-character/10-2.mp3,impacts,3.60,hurt;ранение,https://opengameart.org/content/hurt-death-sound-effect-for-character,CC0-1.0,impacts.zip
-impacts/hurt-death-sound-effect-for-character/10.mp3,impacts,3.60,hurt;ранение,https://opengameart.org/content/hurt-death-sound-effect-for-character,CC0-1.0,impacts.zip
 impacts/hurt-death-sound-effect-for-character/11-2.mp3,impacts,2.36,hurt;ранение,https://opengameart.org/content/hurt-death-sound-effect-for-character,CC0-1.0,impacts.zip
 impacts/hurt-death-sound-effect-for-character/11.mp3,impacts,2.36,hurt;ранение,https://opengameart.org/content/hurt-death-sound-effect-for-character,CC0-1.0,impacts.zip
 impacts/hurt-death-sound-effect-for-character/12.mp3,impacts,1.97,hurt;ранение,https://opengameart.org/content/hurt-death-sound-effect-for-character,CC0-1.0,impacts.zip
@@ -1724,6 +1722,7 @@ impacts/sound-pack/hit_g5.mp3,impacts,1.85,hit;удар,https://opengameart.org/
 impacts/sound-pack/paddle_hit-2.mp3,impacts,1.85,hit;удар,https://opengameart.org/content/sound-pack,CC0-1.0,impacts.zip
 impacts/sound-pack/paddle_hit.mp3,impacts,1.85,hit;удар,https://opengameart.org/content/sound-pack,CC0-1.0,impacts.zip
 impacts/soundpack-03/explosion01-2.mp3,impacts,0.85,explosion;взрыв,https://opengameart.org/content/soundpack-03,CC0-1.0,impacts.zip
+impacts/soundpack-03/explosion01-3.mp3,impacts,0.85,explosion;взрыв,https://opengameart.org/content/soundpack-03,CC0-1.0,impacts.zip
 impacts/soundpack-03/explosion01.mp3,impacts,0.85,explosion;взрыв,https://opengameart.org/content/soundpack-03,CC0-1.0,impacts.zip
 impacts/soundpack-03/explosion02-2.mp3,impacts,0.41,explosion;взрыв,https://opengameart.org/content/soundpack-03,CC0-1.0,impacts.zip
 impacts/soundpack-03/explosion02-3.mp3,impacts,0.41,explosion;взрыв,https://opengameart.org/content/soundpack-03,CC0-1.0,impacts.zip
@@ -2511,7 +2510,7 @@ nature/rain-ambient-not-loopable-2-versions-available/Ove-Melaa---Rainy-NOT-loop
 nature/rain-ambient-not-loopable-2-versions-available/Ove-Melaa---Rainy-NOT-loopable.mp3,nature,80.68,rain;дождь;ambient;атмосфера,https://opengameart.org/content/rain-ambient-not-loopable-2-versions-available,CC0-1.0,nature.zip
 nature/rain-gutter-loop/rain-gutter-loop_0.mp3,nature,61.60,rain;дождь;loop;луп,https://opengameart.org/content/rain-gutter-loop,CC0-1.0,nature.zip
 nature/rain-long-thunder/rain-thunder.mp3,nature,44.37,thunder;гром;rain;дождь,https://opengameart.org/content/rain-long-thunder,CC0-1.0,nature.zip
-nature/rain-loopable/1.mp3,nature,27.00,rain;дождь,https://opengameart.org/content/rain-loopable,CC0-1.0,nature.zip
+nature/rain-loopable/1-2.mp3,nature,27.00,rain;дождь,https://opengameart.org/content/rain-loopable,CC0-1.0,nature.zip
 nature/rain-loopable/1.mp3,nature,27.00,rain;дождь,https://opengameart.org/content/rain-loopable,CC0-1.0,nature.zip
 nature/rain-loopable/1_7.mp3,nature,27.00,rain;дождь,https://opengameart.org/content/rain-loopable,CC0-1.0,nature.zip
 nature/rain-loopable/2-2.mp3,nature,26.00,rain;дождь,https://opengameart.org/content/rain-loopable,CC0-1.0,nature.zip
@@ -3143,8 +3142,6 @@ other/3-dark-magic-spells/fout-02.mp3,other,1.22,magic;магия;spell;закл
 other/3-dark-magic-spells/fout-03.mp3,other,3.92,magic;магия;spell;заклинание,https://opengameart.org/content/3-dark-magic-spells,CC0-1.0,other.zip
 other/3-melee-sounds/melee-sound.mp3,other,0.61,sword;меч;knife;нож;animal,https://opengameart.org/content/3-melee-sounds,CC0-1.0,other.zip
 other/3-melee-sounds/ms.mp3,other,1.80,sword;меч;knife;нож;animal,https://opengameart.org/content/3-melee-sounds,CC0-1.0,other.zip
-other/3-ping-pong-sounds-8-bit-style/ping_pong_8bit_beeep.mp3,other,0.30,8-bit;8-бит,https://opengameart.org/content/3-ping-pong-sounds-8-bit-style,CC0-1.0,other.zip
-other/3-ping-pong-sounds-8-bit-style/ping_pong_8bit_beeep.mp3,other,0.30,8-bit;8-бит,https://opengameart.org/content/3-ping-pong-sounds-8-bit-style,CC0-1.0,other.zip
 other/3-ping-pong-sounds-8-bit-style/ping_pong_8bit_peeeeeep.mp3,other,0.26,8-bit;8-бит,https://opengameart.org/content/3-ping-pong-sounds-8-bit-style,CC0-1.0,other.zip
 other/3-strange-sound-effects/Girl_Scream.mp3,other,3.32,scream;крик,https://opengameart.org/content/3-strange-sound-effects,CC0-1.0,other.zip
 other/3-strange-sound-effects/Tornado.mp3,other,3.94,bird;птица;scream;крик,https://opengameart.org/content/3-strange-sound-effects,CC0-1.0,other.zip
@@ -4358,15 +4355,17 @@ other/airport-announcement-voice-acting-stk/STK_Voice_Announcement_Normal.mp3,ot
 other/alarm-1/alarm_2.mp3,other,1.85,other,https://opengameart.org/content/alarm-1,CC0-1.0,other.zip
 other/alarm-2/alarm_0.mp3,other,2.00,other,https://opengameart.org/content/alarm-2,CC0-1.0,other.zip
 other/alarm-vocal/alarme.mp3,other,1.04,other,https://opengameart.org/content/alarm-vocal,CC0-1.0,other.zip
-other/alien-sound/sound-alien1-2.mp3,other,1.59,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
+other/alien-sound/sound-alien1.mp3,other,1.59,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sound/sound-alien1.mp3,other,1.59,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sound/sound-alien2-2.mp3,other,3.85,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sound/sound-alien2.mp3,other,3.85,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
+other/alien-sound/sound-alien3.mp3,other,2.00,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
+other/alien-sound/sound-alien3.mp3,other,2.00,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sound/sound-alien4-2.mp3,other,2.56,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sound/sound-alien4.mp3,other,2.56,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sound/sound-alien5-2.mp3,other,3.05,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sound/sound-alien5.mp3,other,3.05,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
-other/alien-sound/sound-alien6.mp3,other,3.21,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
+other/alien-sound/sound-alien6-2.mp3,other,3.21,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sound/sound-alien6.mp3,other,3.21,roar;рёв,https://opengameart.org/content/alien-sound,CC0-1.0,other.zip
 other/alien-sounds/alien_device_0.mp3,other,0.93,laser;лазер;space;космос,https://opengameart.org/content/alien-sounds,CC0-1.0,other.zip
 other/alien-sounds/alien_sucker1.mp3,other,1.11,laser;лазер;space;космос,https://opengameart.org/content/alien-sounds,CC0-1.0,other.zip
@@ -4695,8 +4694,10 @@ other/cc0-deep-monster-roar/monster_roar.mp3,other,7.22,monster;монстр;roa
 other/ccut/audio_2021-01-31_11-35-46.mp3,other,1.22,monster;монстр,https://opengameart.org/content/ccut,CC0-1.0,other.zip
 other/cerhern/cerhern.mp3,other,120.00,drone;гул,https://opengameart.org/content/cerhern,CC0-1.0,other.zip
 other/children-voices/children.mp3,other,8.12,voice;голос,https://opengameart.org/content/children-voices,CC0-1.0,other.zip
+other/childrens-xylophone/child-s_xylophone-1-2.mp3,other,1.15,other,https://opengameart.org/content/childrens-xylophone,CC0-1.0,other.zip
 other/childrens-xylophone/child-s_xylophone-1.mp3,other,1.15,other,https://opengameart.org/content/childrens-xylophone,CC0-1.0,other.zip
-other/childrens-xylophone/child-s_xylophone-1.mp3,other,1.15,other,https://opengameart.org/content/childrens-xylophone,CC0-1.0,other.zip
+other/childrens-xylophone/child-s_xylophone-2.mp3,other,2.20,other,https://opengameart.org/content/childrens-xylophone,CC0-1.0,other.zip
+other/childrens-xylophone/child-s_xylophone-2.mp3,other,2.20,other,https://opengameart.org/content/childrens-xylophone,CC0-1.0,other.zip
 other/chipper-chopper-upper/chopper.mp3,other,5.00,blade;клинок,https://opengameart.org/content/chipper-chopper-upper,CC0-1.0,other.zip
 other/chiptune-sfx-pack/damaged.mp3,other,0.26,8-bit;8-бит,https://opengameart.org/content/chiptune-sfx-pack,CC0-1.0,other.zip
 other/chiptune-sfx-pack/fail.mp3,other,0.36,8-bit;8-бит,https://opengameart.org/content/chiptune-sfx-pack,CC0-1.0,other.zip
@@ -6540,6 +6541,8 @@ other/scorchers-voice-overs/Base50Perc.mp3,other,3.15,voice;голос,https://o
 other/scorchers-voice-overs/WhatTheHell.mp3,other,1.45,voice;голос,https://opengameart.org/content/scorchers-voice-overs,CC0-1.0,other.zip
 other/scorchers-voice-overs/hey.mp3,other,0.79,voice;голос,https://opengameart.org/content/scorchers-voice-overs,CC0-1.0,other.zip
 other/scorchers-voice-overs/theHell.mp3,other,0.94,voice;голос,https://opengameart.org/content/scorchers-voice-overs,CC0-1.0,other.zip
+other/scrapes/scrape-1.mp3,other,1.14,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
+other/scrapes/scrape-1.mp3,other,1.14,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
 other/scrapes/scrape-2-2.mp3,other,1.28,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
 other/scrapes/scrape-2.mp3,other,1.28,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
 other/scrapes/scrape-3-2.mp3,other,1.40,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
@@ -6552,8 +6555,6 @@ other/scrapes/scrape-6-2.mp3,other,1.30,other,https://opengameart.org/content/sc
 other/scrapes/scrape-6.mp3,other,1.30,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
 other/scrapes/scrape-7-2.mp3,other,1.33,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
 other/scrapes/scrape-7.mp3,other,1.33,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
-other/scrapes/scrape-8.mp3,other,1.49,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
-other/scrapes/scrape-8.mp3,other,1.49,other,https://opengameart.org/content/scrapes,CC0-1.0,other.zip
 other/sfx-plug-in-plug-out/Plug-in-2.mp3,other,3.46,power up;усиление;switch;переключатель,https://opengameart.org/content/sfx-plug-in-plug-out,CC0-1.0,other.zip
 other/sfx-plug-in-plug-out/Plug-in.mp3,other,2.01,power up;усиление;switch;переключатель,https://opengameart.org/content/sfx-plug-in-plug-out,CC0-1.0,other.zip
 other/sfx-plug-in-plug-out/Plug-out.mp3,other,2.01,power up;усиление;switch;переключатель,https://opengameart.org/content/sfx-plug-in-plug-out,CC0-1.0,other.zip
@@ -6800,17 +6801,19 @@ other/sfx-the-ultimate-2017-16-bit-mini-pack/Wav_Teleport__009.mp3,other,0.62,re
 other/sfx-the-ultimate-2017-16-bit-mini-pack/Wav_Teleport__010.mp3,other,0.30,retro;ретро,https://opengameart.org/content/sfx-the-ultimate-2017-16-bit-mini-pack,CC0-1.0,other.zip
 other/ship-rams-ship/ship_ram_ship.mp3,other,7.86,other,https://opengameart.org/content/ship-rams-ship,CC0-1.0,other.zip
 other/ship-sinking/ship_destroyed.mp3,other,18.54,other,https://opengameart.org/content/ship-sinking,CC0-1.0,other.zip
-other/shop-owner-voice/good_choice-2.mp3,other,0.77,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
+other/shop-owner-voice/good_choice.mp3,other,0.77,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/good_choice.mp3,other,0.77,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/here_you_go-2.mp3,other,0.55,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/here_you_go.mp3,other,0.55,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
+other/shop-owner-voice/hey_may_I_help-2.mp3,other,0.94,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/hey_may_I_help.mp3,other,0.94,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
-other/shop-owner-voice/hey_may_I_help.mp3,other,0.94,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
+other/shop-owner-voice/hey_there.mp3,other,0.37,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
+other/shop-owner-voice/hey_there.mp3,other,0.37,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/hmm-2.mp3,other,0.56,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/hmm.mp3,other,0.56,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
+other/shop-owner-voice/thanks-2.mp3,other,0.52,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/thanks.mp3,other,0.52,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
-other/shop-owner-voice/thanks.mp3,other,0.52,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
-other/shop-owner-voice/welcome_0.mp3,other,1.49,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
+other/shop-owner-voice/welcome_0-2.mp3,other,1.49,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/welcome_0.mp3,other,1.49,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/welcome_1.mp3,other,0.53,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
 other/shop-owner-voice/welcome_2.mp3,other,0.95,voice;голос,https://opengameart.org/content/shop-owner-voice,CC0-1.0,other.zip
@@ -7655,20 +7658,19 @@ other/sound-pack/power_speed_up.mp3,other,1.85,other,https://opengameart.org/con
 other/sound-pack/power_split-2.mp3,other,1.85,other,https://opengameart.org/content/sound-pack,CC0-1.0,other.zip
 other/sound-pack/power_split.mp3,other,1.85,other,https://opengameart.org/content/sound-pack,CC0-1.0,other.zip
 other/soundpack-02/jump01-2.mp3,other,0.18,jump;прыжок,https://opengameart.org/content/soundpack-02,CC0-1.0,other.zip
-other/soundpack-02/jump01-3.mp3,other,0.18,jump;прыжок,https://opengameart.org/content/soundpack-02,CC0-1.0,other.zip
+other/soundpack-02/jump01-2.mp3,other,0.18,jump;прыжок,https://opengameart.org/content/soundpack-02,CC0-1.0,other.zip
 other/soundpack-02/jump01.mp3,other,0.18,jump;прыжок,https://opengameart.org/content/soundpack-02,CC0-1.0,other.zip
 other/soundpack-02/key01-2.mp3,other,0.22,key;ключ,https://opengameart.org/content/soundpack-02,CC0-1.0,other.zip
 other/soundpack-02/key01-3.mp3,other,0.21,key;ключ,https://opengameart.org/content/soundpack-02,CC0-1.0,other.zip
 other/soundpack-02/key01.mp3,other,0.21,key;ключ,https://opengameart.org/content/soundpack-02,CC0-1.0,other.zip
-other/soundpack-04/alarm-2.mp3,other,2.68,select;выбор;coin;монета;8-bit,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
 other/soundpack-04/alarm.mp3,other,2.68,select;выбор;coin;монета;8-bit,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
 other/soundpack-04/alarm02.mp3,other,2.72,select;выбор;coin;монета;8-bit,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
+other/soundpack-04/alarm03-2.mp3,other,2.25,select;выбор;coin;монета;8-bit,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
 other/soundpack-04/alarm03.mp3,other,2.25,select;выбор;coin;монета;8-bit,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
 other/soundpack-04/alarm_1.mp3,other,2.68,select;выбор;coin;монета;8-bit,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
-other/soundpack-04/jump02-2.mp3,other,0.35,jump;прыжок,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
-other/soundpack-04/jump02.mp3,other,0.35,jump;прыжок,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
 other/soundpack-04/jump02.mp3,other,0.35,jump;прыжок,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
 other/soundpack-04/strange-2.mp3,other,4.28,select;выбор;coin;монета;8-bit,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
+other/soundpack-04/strange.mp3,other,4.28,select;выбор;coin;монета;8-bit,https://opengameart.org/content/soundpack-04,CC0-1.0,other.zip
 other/sow-seeds/sow.mp3,other,0.98,other,https://opengameart.org/content/sow-seeds,CC0-1.0,other.zip
 other/spell-sounds/electricspell.mp3,other,20.70,spell;заклинание,https://opengameart.org/content/spell-sounds,CC0-1.0,other.zip
 other/spell-sounds/electricspell2.mp3,other,21.10,spell;заклинание,https://opengameart.org/content/spell-sounds,CC0-1.0,other.zip
@@ -8193,6 +8195,8 @@ other/thwack-sounds/thwack-09.mp3,other,0.47,hit;удар;thud;глухой уд
 other/thwack-sounds/thwack-10.mp3,other,0.50,hit;удар;thud;глухой удар;bang,https://opengameart.org/content/thwack-sounds,CC0-1.0,other.zip
 other/tick-and-tock/tick.mp3,other,0.31,other,https://opengameart.org/content/tick-and-tock,CC0-1.0,other.zip
 other/tick-and-tock/tick2.mp3,other,0.32,other,https://opengameart.org/content/tick-and-tock,CC0-1.0,other.zip
+other/ticking-clock-0/clock-1.mp3,other,4.00,click;клик,https://opengameart.org/content/ticking-clock-0,CC0-1.0,other.zip
+other/ticking-clock-0/clock-1.mp3,other,4.00,click;клик,https://opengameart.org/content/ticking-clock-0,CC0-1.0,other.zip
 other/ticking-clock/ticking-clock---tick1.mp3,other,0.17,loop;луп,https://opengameart.org/content/ticking-clock,CC0-1.0,other.zip
 other/ticking-clock/ticking-clock---tick2.mp3,other,0.18,loop;луп,https://opengameart.org/content/ticking-clock,CC0-1.0,other.zip
 other/ticking-clock/ticking-clock---tick3.mp3,other,0.19,loop;луп,https://opengameart.org/content/ticking-clock,CC0-1.0,other.zip
@@ -8210,11 +8214,11 @@ other/tree-creaking/tree_creak.mp3,other,6.58,wind;ветер,https://opengamear
 other/trying-to-unlock-sound/trying_to_unlock.mp3,other,0.65,other,https://opengameart.org/content/trying-to-unlock-sound,CC0-1.0,other.zip
 other/ub04-sounds-and-music-pack/Sounds_sndJump.mp3,other,0.38,jump;прыжок,https://opengameart.org/content/ub04-sounds-and-music-pack,CC0-1.0,other.zip
 other/ufo-beam/Beam.mp3,other,5.24,other,https://opengameart.org/content/ufo-beam,CC0-1.0,other.zip
+other/undead-moans/undead-1-2.mp3,other,2.28,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
 other/undead-moans/undead-1.mp3,other,2.28,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
-other/undead-moans/undead-1.mp3,other,2.28,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
-other/undead-moans/undead-2-2.mp3,other,1.87,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
 other/undead-moans/undead-2.mp3,other,1.87,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
-other/undead-moans/undead-3-2.mp3,other,2.09,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
+other/undead-moans/undead-2.mp3,other,1.87,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
+other/undead-moans/undead-3.mp3,other,2.09,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
 other/undead-moans/undead-3.mp3,other,2.09,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
 other/undead-moans/undead-4-2.mp3,other,1.51,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
 other/undead-moans/undead-4.mp3,other,1.51,zombie;зомби,https://opengameart.org/content/undead-moans,CC0-1.0,other.zip
@@ -8307,8 +8311,9 @@ other/various-sound-effects-0/swim_0.mp3,other,1.16,beep;писк;bang;бах;br
 other/various-sound-effects-0/teleport_2.mp3,other,3.88,beep;писк;bang;бах;break,https://opengameart.org/content/various-sound-effects-0,CC0-1.0,other.zip
 other/various-sound-effects-0/tick_0.mp3,other,0.26,beep;писк;bang;бах;break,https://opengameart.org/content/various-sound-effects-0,CC0-1.0,other.zip
 other/various-sound-effects-0/uff.mp3,other,1.96,beep;писк;bang;бах;break,https://opengameart.org/content/various-sound-effects-0,CC0-1.0,other.zip
+other/various-sound-effects-pack-1/Various100-2.mp3,other,2.37,retro;ретро,https://opengameart.org/content/various-sound-effects-pack-1,CC0-1.0,other.zip
 other/various-sound-effects-pack-1/Various100.mp3,other,2.37,retro;ретро,https://opengameart.org/content/various-sound-effects-pack-1,CC0-1.0,other.zip
-other/various-sound-effects-pack-1/Various104-2.mp3,other,1.58,retro;ретро,https://opengameart.org/content/various-sound-effects-pack-1,CC0-1.0,other.zip
+other/various-sound-effects-pack-1/Various104.mp3,other,1.58,retro;ретро,https://opengameart.org/content/various-sound-effects-pack-1,CC0-1.0,other.zip
 other/various-sound-effects-pack-1/Various104.mp3,other,1.58,retro;ретро,https://opengameart.org/content/various-sound-effects-pack-1,CC0-1.0,other.zip
 other/various-sound-effects-pack-1/Various149-2.mp3,other,3.99,retro;ретро,https://opengameart.org/content/various-sound-effects-pack-1,CC0-1.0,other.zip
 other/various-sound-effects-pack-1/Various149.mp3,other,3.99,retro;ретро,https://opengameart.org/content/various-sound-effects-pack-1,CC0-1.0,other.zip
@@ -8792,7 +8797,7 @@ other/zombie-moans/darsycho__zombie-moans.mp3,other,15.81,zombie;зомби,http
 other/zombie-news-in-radio/radio_news_zombies.mp3,other,70.49,zombie;зомби,https://opengameart.org/content/zombie-news-in-radio,CC0-1.0,other.zip
 other/zombie-noises-and-moans/fastzombie1.mp3,other,0.34,zombie;зомби,https://opengameart.org/content/zombie-noises-and-moans,CC0-1.0,other.zip
 other/zombie-noises-and-moans/fastzombie1.mp3,other,0.34,zombie;зомби,https://opengameart.org/content/zombie-noises-and-moans,CC0-1.0,other.zip
-other/zombie-noises-and-moans/zombienoise1.mp3,other,2.12,zombie;зомби,https://opengameart.org/content/zombie-noises-and-moans,CC0-1.0,other.zip
+other/zombie-noises-and-moans/zombienoise1-2.mp3,other,2.12,zombie;зомби,https://opengameart.org/content/zombie-noises-and-moans,CC0-1.0,other.zip
 other/zombie-noises-and-moans/zombienoise1.mp3,other,2.12,zombie;зомби,https://opengameart.org/content/zombie-noises-and-moans,CC0-1.0,other.zip
 other/zombie-noises-and-moans/zombienoise2-2.mp3,other,1.92,zombie;зомби,https://opengameart.org/content/zombie-noises-and-moans,CC0-1.0,other.zip
 other/zombie-noises-and-moans/zombienoise2.mp3,other,1.92,zombie;зомби,https://opengameart.org/content/zombie-noises-and-moans,CC0-1.0,other.zip
@@ -9137,6 +9142,8 @@ ui/202-more-sound-effects/Money_Money_37.mp3,ui,1.82,money;деньги,https://
 ui/202-more-sound-effects/Money_Money_38.mp3,ui,0.96,money;деньги,https://opengameart.org/content/202-more-sound-effects,CC0-1.0,ui.zip
 ui/25-sounds-from-avalanche-minigame/Menu_menu_change.mp3,ui,0.25,menu;меню,https://opengameart.org/content/25-sounds-from-avalanche-minigame,CC0-1.0,ui.zip
 ui/25-sounds-from-avalanche-minigame/Menu_menu_select.mp3,ui,0.32,menu;меню;select;выбор,https://opengameart.org/content/25-sounds-from-avalanche-minigame,CC0-1.0,ui.zip
+ui/3-pop-sounds/3pops-2.mp3,ui,3.52,pop;поп,https://opengameart.org/content/3-pop-sounds,CC0-1.0,ui.zip
+ui/3-pop-sounds/3pops.mp3,ui,3.52,pop;поп,https://opengameart.org/content/3-pop-sounds,CC0-1.0,ui.zip
 ui/3-pop-sounds/pop1.mp3,ui,0.40,pop;поп,https://opengameart.org/content/3-pop-sounds,CC0-1.0,ui.zip
 ui/3-pop-sounds/pop2.mp3,ui,0.29,pop;поп,https://opengameart.org/content/3-pop-sounds,CC0-1.0,ui.zip
 ui/3-pop-sounds/pop3.mp3,ui,0.32,pop;поп,https://opengameart.org/content/3-pop-sounds,CC0-1.0,ui.zip
@@ -9845,7 +9852,7 @@ ui/light-switch-turn-on-and-off-sfx-0/light_switch_turn_on.mp3,ui,0.27,switch;п
 ui/light-switch-turn-on-and-off-sfx-0/light_switch_turn_on_0.mp3,ui,0.27,switch;переключатель,https://opengameart.org/content/light-switch-turn-on-and-off-sfx-0,CC0-1.0,ui.zip
 ui/menu-choice/Menu-Choice.mp3,ui,0.52,menu;меню,https://opengameart.org/content/menu-choice,CC0-1.0,ui.zip
 ui/menu-roll/menu-roll.mp3,ui,0.32,menu;меню,https://opengameart.org/content/menu-roll,CC0-1.0,ui.zip
-ui/menu-rollover/menu-rollover-2.mp3,ui,0.28,menu;меню,https://opengameart.org/content/menu-rollover,CC0-1.0,ui.zip
+ui/menu-rollover/menu-rollover.mp3,ui,0.28,menu;меню,https://opengameart.org/content/menu-rollover,CC0-1.0,ui.zip
 ui/menu-rollover/menu-rollover.mp3,ui,0.28,menu;меню,https://opengameart.org/content/menu-rollover,CC0-1.0,ui.zip
 ui/menu-select-tick/menu-tick.mp3,ui,0.34,menu;меню,https://opengameart.org/content/menu-select-tick,CC0-1.0,ui.zip
 ui/menu-select/beep.mp3,ui,0.33,beep;писк,https://opengameart.org/content/menu-select,CC0-1.0,ui.zip
@@ -10196,18 +10203,14 @@ ui/sound-effects-pack/UI_UI_039.mp3,ui,2.87,impact;удар;water;вода;foots
 ui/sound-effects-pack/UI_UI_040.mp3,ui,0.93,impact;удар;water;вода;footstep,https://opengameart.org/content/sound-effects-pack,CC0-1.0,ui.zip
 ui/sound-pack/menu_open.mp3,ui,1.85,menu;меню,https://opengameart.org/content/sound-pack,CC0-1.0,ui.zip
 ui/soundpack-02/coin01-2.mp3,ui,0.52,coin;монета,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
-ui/soundpack-02/coin01-3.mp3,ui,0.52,coin;монета,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
+ui/soundpack-02/coin01-2.mp3,ui,0.52,coin;монета,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
 ui/soundpack-02/coin01.mp3,ui,0.52,coin;монета,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
 ui/soundpack-02/select-2.mp3,ui,0.31,select;выбор,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
 ui/soundpack-02/select.mp3,ui,0.31,select;выбор,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
-ui/soundpack-02/select02-2.mp3,ui,0.41,select;выбор,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
-ui/soundpack-02/select02-3.mp3,ui,0.40,select;выбор,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
 ui/soundpack-02/select02.mp3,ui,0.40,select;выбор,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
 ui/soundpack-02/select_3.mp3,ui,0.31,select;выбор,https://opengameart.org/content/soundpack-02,CC0-1.0,ui.zip
 ui/soundpack-04/coin02-2.mp3,ui,0.39,coin;монета,https://opengameart.org/content/soundpack-04,CC0-1.0,ui.zip
-ui/soundpack-04/coin02-2.mp3,ui,0.39,coin;монета,https://opengameart.org/content/soundpack-04,CC0-1.0,ui.zip
 ui/soundpack-04/coin02.mp3,ui,0.39,coin;монета,https://opengameart.org/content/soundpack-04,CC0-1.0,ui.zip
-ui/soundpack-04/coin03-2.mp3,ui,0.56,coin;монета,https://opengameart.org/content/soundpack-04,CC0-1.0,ui.zip
 ui/soundpack-04/coin03.mp3,ui,0.56,coin;монета,https://opengameart.org/content/soundpack-04,CC0-1.0,ui.zip
 ui/soundpack-04/coin03.mp3,ui,0.56,coin;монета,https://opengameart.org/content/soundpack-04,CC0-1.0,ui.zip
 ui/stove-switch/switch_strength_stove_01.mp3,ui,0.51,switch;переключатель,https://opengameart.org/content/stove-switch,CC0-1.0,ui.zip
@@ -10292,7 +10295,7 @@ ui/ui-sounds-0/8.mp3,ui,1.06,notification;уведомление,https://opengam
 ui/ui-sounds-0/9.mp3,ui,1.00,notification;уведомление,https://opengameart.org/content/ui-sounds-0,CC0-1.0,ui.zip
 ui/ui-sounds-0/Wrong-Error.mp3,ui,0.38,error;ошибка,https://opengameart.org/content/ui-sounds-0,CC0-1.0,ui.zip
 ui/ui-sounds-0/preview2.mp3,ui,16.00,notification;уведомление,https://opengameart.org/content/ui-sounds-0,CC0-1.0,ui.zip
-ui/ui-sounds/button1-2.mp3,ui,1.71,button;кнопка,https://opengameart.org/content/ui-sounds,CC0-1.0,ui.zip
+ui/ui-sounds/button1.mp3,ui,1.71,button;кнопка,https://opengameart.org/content/ui-sounds,CC0-1.0,ui.zip
 ui/ui-sounds/button1.mp3,ui,1.71,button;кнопка,https://opengameart.org/content/ui-sounds,CC0-1.0,ui.zip
 ui/ui-sounds/button2-2.mp3,ui,1.71,button;кнопка,https://opengameart.org/content/ui-sounds,CC0-1.0,ui.zip
 ui/ui-sounds/button2.mp3,ui,1.71,button;кнопка,https://opengameart.org/content/ui-sounds,CC0-1.0,ui.zip
@@ -10841,7 +10844,7 @@ weapons/battle-at-sea/cannon_miss_1.mp3,weapons,1.65,cannon;пушка,https://o
 weapons/battle-sound-effects/Bow.mp3,weapons,0.55,bow;лук,https://opengameart.org/content/battle-sound-effects,CC0-1.0,weapons.zip
 weapons/birbotronicdoogdoog-misc-sound-effects/laser.mp3,weapons,1.35,laser;лазер,https://opengameart.org/content/birbotronicdoogdoog-misc-sound-effects,CC0-1.0,weapons.zip
 weapons/blacksmiths-hammer/blacksmithhammer.mp3,weapons,0.50,hammer;молот,https://opengameart.org/content/blacksmiths-hammer,CC0-1.0,weapons.zip
-weapons/bub-block-sound-effects/blade1.mp3,weapons,1.61,blade;клинок,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,weapons.zip
+weapons/bub-block-sound-effects/blade1-2.mp3,weapons,1.59,blade;клинок,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,weapons.zip
 weapons/bub-block-sound-effects/blade1.mp3,weapons,1.61,blade;клинок,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,weapons.zip
 weapons/bub-block-sound-effects/blade2.mp3,weapons,2.25,blade;клинок,https://opengameart.org/content/bub-block-sound-effects,CC0-1.0,weapons.zip
 weapons/cannon-fire/cannon_fire.mp3,weapons,3.58,cannon;пушка;fire;огонь,https://opengameart.org/content/cannon-fire,CC0-1.0,weapons.zip

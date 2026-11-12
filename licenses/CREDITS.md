@@ -765,6 +765,7 @@ All packs come from OpenGameArt.org and are offered under CC0 1.0 (some also und
 | Thwack Sounds | antumdeluge | https://opengameart.org/content/thwack-sounds | CC0-1.0 |
 | Tick and Tock | cemkalyoncu | https://opengameart.org/content/tick-and-tock | CC0-1.0 |
 | Ticking clock. | bart | https://opengameart.org/content/ticking-clock | CC0-1.0 |
+| Ticking Clock | antumdeluge | https://opengameart.org/content/ticking-clock-0 | CC0-1.0 |
 | Time Slow | midfag | https://opengameart.org/content/time-slow | CC0-1.0 |
 | Tiny creatures sounds | fvcalderan | https://opengameart.org/content/tiny-creatures-sounds | CC0-1.0 |
 | Tiny Naval Battle Sounds Set | qubodup | https://opengameart.org/content/tiny-naval-battle-sounds-set | CC0-1.0 |
